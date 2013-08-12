@@ -36,7 +36,7 @@ Domain Path: ${9:Domain Path}
 <!-- Optional: Description to show in the menu -->
     <description>WP Plugin Start</description>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	 <tabTrigger>wpp</tabTrigger> 
+	 <tabTrigger>wpplugin</tabTrigger> 
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>php</scope> -->
 </snippet>
